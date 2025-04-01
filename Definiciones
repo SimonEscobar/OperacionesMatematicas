@@ -1,0 +1,15 @@
+Las operaciones se realizan utilizando operadores matemáticos entre números o variables.
+
+Orden de operaciones
+Python sigue las reglas matemáticas del orden de operaciones (PEMDAS):
+Paréntesis ()
+Exponentes **
+Multiplicación (*), División (/ y //), y Módulo (%)
+Suma (+) y Resta (-)
+
+Si operamos un número entero (int) con un decimal (float), el resultado será float.
+
+En Python, las operaciones matemáticas se realizan con operadores como +, -, *, /, //, % y **.
+Se imprimen con print() y pueden usarse f-strings para una mejor presentación.
+Python respeta el orden de operaciones matemáticas (PEMDAS).
+Se pueden hacer conversiones de tipo y redondeos cuando sea necesario.
